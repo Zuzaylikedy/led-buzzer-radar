@@ -31,4 +31,3 @@ https://projecthub.arduino.cc/lucasfernando/ultrasonic-sensor-with-arduino-compl
 ---
 👤 Author
 Melike Aslan
-Düzenle
