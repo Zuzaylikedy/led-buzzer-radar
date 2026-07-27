@@ -29,5 +29,3 @@ Distance: 8 cm → 🚨 LED ON
 This project is based on:
 https://projecthub.arduino.cc/lucasfernando/ultrasonic-sensor-with-arduino-complete-guide-284faf
 ---
-👤 Author
-Melike Aslan
